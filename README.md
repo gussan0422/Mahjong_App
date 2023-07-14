@@ -5,6 +5,8 @@ application up and running.
 
 ・コンテナの起動方法
 - docker-compose up -d
+・コンテナの終了方法
+- docker-compose down
 
 Things you may want to cover:
 
